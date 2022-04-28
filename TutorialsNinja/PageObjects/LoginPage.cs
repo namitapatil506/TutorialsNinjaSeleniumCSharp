@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//this is login page
+
 namespace TutorialsNinja.PageObjects
 {
     public class LoginPage
